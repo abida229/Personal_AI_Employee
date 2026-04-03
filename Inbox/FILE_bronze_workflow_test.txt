@@ -1,0 +1,6 @@
+This is a Bronze Tier workflow test file.
+
+Created: 2026-04-03
+Purpose: Test the complete file watcher workflow from Drop_Folder -> Inbox -> Needs_Action -> Done
+
+If this file makes it through the entire workflow successfully, the Bronze Tier is working perfectly.
